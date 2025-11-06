@@ -1,4 +1,4 @@
-# tecnicas-de-programacao
+# Técnicas de Programação
 aulas da materia tecnica de programação
 # Atividades da Disciplina: Técnicas de Programação
 
