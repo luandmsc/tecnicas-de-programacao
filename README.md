@@ -85,7 +85,7 @@ Para compilar e executar as atividades deste repositório, siga as instruções 
 
 ## 👤 Autor
 
-* **[Seu Nome Completo]**
-* **Contato:** `seu-email@dominio.com`
+* **[Luan Damasceno Gualberto]**
+* **Contato:** `luandamasceno6690@gmail.com`
 * **LinkedIn:** `https://www.linkedin.com/in/seu-usuario/`
-* **GitHub:** `https://github.com/seu-usuario`
+* **GitHub:** `https://github.com/
