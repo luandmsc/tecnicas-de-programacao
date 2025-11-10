@@ -87,5 +87,5 @@ Para compilar e executar as atividades deste repositório, siga as instruções 
 
 * **[Luan Damasceno Gualberto]**
 * **Contato:** `luandamasceno6690@gmail.com`
-* **LinkedIn:** `https://www.linkedin.com/in/seu-usuario/`
+
 * **GitHub:** `https://github.com/
