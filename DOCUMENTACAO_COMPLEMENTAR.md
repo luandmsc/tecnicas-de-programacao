@@ -558,6 +558,7 @@ FIM SUBALGORITMO
 
 ---
 
-**Desenvolvido por: Wamberg Gomes**  
-**Projeto: Sistema de Gerenciamento de Concessionária Berg Lindo**  
+**Desenvolvido por: Luan Damasceno**  
+**Projeto: Projeto Concessionária Professor Eliel Cruz**  
 **Data: 2025**
+
